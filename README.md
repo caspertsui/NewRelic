@@ -9,6 +9,7 @@ pip install -r requirements.txt
 
 ## Execution
 ```bash
+export NEW_RELIC_API_KEY=YOUR_API_KEY
 python ./rest_api_data_consolidator.py
 ```
 
