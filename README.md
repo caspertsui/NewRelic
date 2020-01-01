@@ -21,6 +21,8 @@ python ./rest_api_data_consolidator.py
 # Pandas dataframe result CSV file
 ./result_dt.csv
 ```
+### Sample output
+![result_df.png](https://github.com/alanlunspace/NewRelic/blob/master/result_df.png)
 
 ## Reference
 https://discuss.newrelic.com/t/feature-idea-how-to-get-notification-channel-information-for-a-synthetic-monitor-with-rest-api/90820/7
